@@ -1,0 +1,23 @@
+{
+  "name": "youtube-embed",
+  "version": "1.0.0",
+  "description": "Convert YouTube video url to url for embedding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PazzaVlad/youtube-embed.git"
+  },
+  "keywords": [
+    "youtube",
+    "embed"
+  ],
+  "author": "Vlad Harb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PazzaVlad/youtube-embed/issues"
+  },
+  "homepage": "https://github.com/PazzaVlad/youtube-embed#readme"
+}
